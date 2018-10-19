@@ -1,5 +1,5 @@
 ---
-title: 'GEO 503: Spatial Data Science'
+title: 'ENVR_SCI 390: R Data Science'
 ---
 
 # Course Description
